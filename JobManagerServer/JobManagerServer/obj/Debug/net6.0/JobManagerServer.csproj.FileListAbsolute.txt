@@ -1,0 +1,200 @@
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.Development.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.deps.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.runtimeconfig.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.AssemblyReference.cache
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfoInputs.cache
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfo.cs
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CoreCompileInputs.cache
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cs
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.build.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.development.json
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/scopedcss/bundle/JobManagerServer.styles.css
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CopyComplete
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/refint/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.genruntimeconfig.cache
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/ref/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.Development.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.deps.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.runtimeconfig.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.AssemblyReference.cache
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfoInputs.cache
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfo.cs
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CoreCompileInputs.cache
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cs
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.build.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.development.json
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/scopedcss/bundle/JobManagerServer.styles.css
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CopyComplete
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/refint/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.genruntimeconfig.cache
+/Users/fredygonzalez/Projects/JobManager/Job Manager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/ref/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.Development.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.deps.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.runtimeconfig.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.AssemblyReference.cache
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfoInputs.cache
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfo.cs
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CoreCompileInputs.cache
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cs
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.build.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.development.json
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/scopedcss/bundle/JobManagerServer.styles.css
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CopyComplete
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/refint/JobManagerServer.dll
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.genruntimeconfig.cache
+/Users/fredygonzalez/Projects/JobManagerServer/JobManagerServer/obj/Debug/net6.0/ref/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.Development.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/appsettings.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.deps.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.runtimeconfig.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Repository.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Service.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Core.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/bin/Debug/net6.0/JobManager.Models.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.AssemblyReference.cache
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfoInputs.cache
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.AssemblyInfo.cs
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CoreCompileInputs.cache
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cs
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.build.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/staticwebassets.development.json
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/scopedcss/bundle/JobManagerServer.styles.css
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.csproj.CopyComplete
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/refint/JobManagerServer.dll
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.pdb
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/JobManagerServer.genruntimeconfig.cache
+/Users/fredygonzalez/RiderProjects/JobManager/JobManagerServer/JobManagerServer/obj/Debug/net6.0/ref/JobManagerServer.dll
